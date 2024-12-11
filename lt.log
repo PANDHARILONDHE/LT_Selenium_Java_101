@@ -1,0 +1,439 @@
+{"level":"info","time":"2024-12-09T17:01:12.580+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.8"}
+{"level":"warn","time":"2024-12-09T17:01:12.581+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: a9dbc6c5-0aa5-45a8-a58c-33f6b28aed19"}
+{"level":"warn","time":"2024-12-09T17:01:13.918+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2024-12-09T17:01:13.919+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :54472"}
+{"level":"info","time":"2024-12-09T17:01:15.967+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:01:20.943+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:01:20.943+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352358"}
+{"level":"error","time":"2024-12-09T17:41:12.106+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:12.108+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:12.108+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:54486->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:12.697+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:12.698+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:12.698+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:13.734+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:13.735+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:13.735+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:13.779+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30040 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:13.779+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.059+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30040 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.059+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.740+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:16.740+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.740+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:19.153+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30040 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:21.367+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:21.367+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:21.367+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:22.732+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14541 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.732+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.050+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24962 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.051+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.081+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 7088 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.081+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.149+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12045 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.149+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:24.845+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14541 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:24.845+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.338+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12045 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.338+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.338+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24962 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.339+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.382+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 7088 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.382+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:27.912+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14541 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.451+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24962 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.471+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 7088 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.570+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12045 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.571+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::ALL::SSH::FAIL : All SSH connections failed "}
+{"level":"error","time":"2024-12-09T17:41:28.571+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"info","time":"2024-12-09T17:41:30.932+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:30.932+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2024-12-09T17:41:42.361+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:42.365+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :54472","tunnelID":"3352358"}
+{"level":"error","time":"2024-12-09T17:41:44.756+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:54462\": dial tcp 127.0.0.1:54462: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2024-12-09T17:41:45.917+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:45.917+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352943"}
+{"level":"info","time":"2024-12-09T17:43:59.128+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:44:02.293+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+17:35:24.907+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:35:24.910+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:35:24.910+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:08.753+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:08.753+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:08.753+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:56175->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:12.110+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:12.110+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:12.110+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:55380->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:12.171+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:12.171+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:12.171+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:12.767+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:12.767+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:12.767+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:12.844+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:12.844+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:12.844+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:13.793+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20313 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:13.793+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:13.882+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 26820 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:13.883+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:13.899+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14940 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:13.899+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.107+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:14.108+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.108+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:55779->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:14.114+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:14.114+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.114+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:54484->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:14.234+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24034 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:14.234+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.236+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 1631 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:14.236+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 28656 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:14.236+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"warn","time":"2024-12-09T17:41:14.236+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.255+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:14.255+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.255+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:14.295+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14323 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:14.295+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.326+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20802 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:14.326+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.507+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 7523 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:14.507+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.807+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:14.807+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.807+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:14.827+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:14.827+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:14.827+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:15.752+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20114 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:15.752+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:15.831+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 16490 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:15.831+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.007+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31386 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.007+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.027+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20313 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.027+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.056+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14940 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.057+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.110+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 26820 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.110+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.198+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:16.198+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.198+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:16.394+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14323 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.394+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.404+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24034 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.404+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.507+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20802 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.507+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.568+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 28656 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.568+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.570+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 1631 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:16.570+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.797+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:16.797+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.797+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:16.896+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:16.896+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:16.896+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:17.057+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 7523 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:17.057+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:17.271+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:17.271+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:17.271+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:17.867+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20114 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:17.867+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:18.032+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 16490 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:18.032+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:18.085+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31386 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:18.085+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:18.807+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:18.807+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:18.807+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:19.152+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14940 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.185+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:19.185+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:19.185+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:55675->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:19.224+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20313 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.273+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 26820 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.311+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:19.311+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:19.311+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:54517->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:19.449+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24034 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.498+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:19.498+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:19.498+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed read tcp 192.168.251.53:55674->23.106.54.77:443: wsarecv: An existing connection was forcibly closed by the remote host. "}
+{"level":"error","time":"2024-12-09T17:41:19.584+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 1631 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.584+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 14323 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.654+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 28656 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.654+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20802 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:19.864+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:19.864+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:19.864+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:20.158+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 7523 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:20.166+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:20.166+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:20.166+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:20.480+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:20.480+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:20.480+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:20.872+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 20114 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:21.144+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31386 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:21.289+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 16490 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:21.781+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:21.781+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:21.781+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:21.917+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:21.917+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:21.917+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:22.058+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:22.058+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.058+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:22.063+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:22.063+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.063+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:22.333+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24400 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.333+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.556+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21452 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.556+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.650+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31685 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.650+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.687+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24043 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.687+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.732+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30826 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:22.732+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 27307 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.732+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"warn","time":"2024-12-09T17:41:22.732+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.751+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:22.751+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.751+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:22.808+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21494 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.808+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.833+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 15872 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.833+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.848+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 29874 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.848+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.851+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 17169 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.851+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.925+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 15865 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.925+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.953+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12152 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.953+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.957+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 6087 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.957+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.986+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 2619 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.986+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:22.993+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30002 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:22.993+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.010+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12228 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.010+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.040+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31653 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.040+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.050+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 22222 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.051+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.053+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 25542 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.054+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.054+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 25293 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.054+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.081+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21444 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.081+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.161+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 16447 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.162+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.165+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30662 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.165+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.479+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24400 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:23.479+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.597+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:23.597+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:23.597+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:24.716+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21452 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:24.716+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31685 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:24.716+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"warn","time":"2024-12-09T17:41:24.716+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:24.820+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30826 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:24.820+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:24.846+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24043 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:24.846+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:24.891+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21494 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:24.891+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:24.894+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:24.894+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:24.894+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:24.994+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 27307 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:24.994+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.021+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 6087 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:25.021+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 29874 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.021+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"warn","time":"2024-12-09T17:41:25.021+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.038+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 15865 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.038+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.070+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 17169 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.070+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.082+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 15872 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.082+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.114+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12152 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.114+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.135+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30002 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.135+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.226+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 16447 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.226+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.257+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 22222 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.258+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.259+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 2619 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.260+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.304+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 25293 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.304+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.338+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12228 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:25.338+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21444 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:25.338+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30662 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.339+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"warn","time":"2024-12-09T17:41:25.339+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.338+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31653 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.339+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"warn","time":"2024-12-09T17:41:25.339+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.358+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 25542 ssh: tcpip-forward request denied by peer"}
+{"level":"warn","time":"2024-12-09T17:41:25.359+0530","caller":"ssh/ssh.go:200","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.458+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24400 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:25.508+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:25.508+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:25.508+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:25.509+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::CTRL::CONN::MAX::ATTEMPT : Control websocket reconnection max attempt reached "}
+{"level":"error","time":"2024-12-09T17:41:25.509+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2024-12-09T17:41:26.529+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:26.529+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:26.529+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"error","time":"2024-12-09T17:41:26.808+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:26.808+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:26.808+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"info","time":"2024-12-09T17:41:26.992+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:26.993+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"error","time":"2024-12-09T17:41:27.912+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31685 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:27.927+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30826 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.006+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21494 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.006+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21452 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.011+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 24043 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.095+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 27307 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.127+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 15872 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.218+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 29874 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.218+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12152 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.305+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 17169 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.305+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 15865 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.305+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 6087 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.305+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::ALL::SSH::FAIL : All SSH connections failed "}
+{"level":"error","time":"2024-12-09T17:41:28.305+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2024-12-09T17:41:28.349+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 16447 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.349+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30002 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.381+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 22222 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.381+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 25293 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.381+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::ALL::SSH::FAIL : All SSH connections failed "}
+{"level":"error","time":"2024-12-09T17:41:28.381+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2024-12-09T17:41:28.437+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 12228 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.437+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 2619 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.471+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 21444 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.472+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::ALL::SSH::FAIL : All SSH connections failed "}
+{"level":"error","time":"2024-12-09T17:41:28.472+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2024-12-09T17:41:28.556+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 31653 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.556+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::ALL::SSH::FAIL : All SSH connections failed "}
+{"level":"error","time":"2024-12-09T17:41:28.556+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2024-12-09T17:41:28.570+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 25542 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.571+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::ALL::SSH::FAIL : All SSH connections failed "}
+{"level":"error","time":"2024-12-09T17:41:28.572+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2024-12-09T17:41:28.790+0530","caller":"ssh/ssh.go:191","msg":"failed to start remote listener on port: 30662 ssh: tcpip-forward request denied by peer"}
+{"level":"error","time":"2024-12-09T17:41:28.791+0530","caller":"core/lifecycle.go:413","msg":"Err occurred: ERR::ALL::SSH::FAIL : All SSH connections failed "}
+{"level":"error","time":"2024-12-09T17:41:28.791+0530","caller":"core/lifecycle.go:414","msg":"Aborting"}
+{"level":"error","time":"2024-12-09T17:41:29.670+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:29.670+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:29.670+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"info","time":"2024-12-09T17:41:29.836+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:29.836+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"error","time":"2024-12-09T17:41:30.768+0530","caller":"ws/control.go:79","msg":"Control connection break error"}
+{"level":"warn","time":"2024-12-09T17:41:30.768+0530","caller":"ws/control.go:80","msg":"Retrying"}
+{"level":"error","time":"2024-12-09T17:41:30.768+0530","caller":"ws/control.go:81","msg":"ERR::WS::CTRL::CONN::DWN : Control websocket connection closed websocket: close 1006 (abnormal closure): unexpected EOF "}
+{"level":"info","time":"2024-12-09T17:41:30.946+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:30.946+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2024-12-09T17:41:30.964+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:30.964+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2024-12-09T17:41:31.001+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:31.001+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2024-12-09T17:41:31.243+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:31.243+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2024-12-09T17:41:31.320+0530","caller":"core/lifecycle.go:435","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:41:31.320+0530","caller":"cmd/lt.go:238","msg":"Tunnel aborted, starting new tunnel."}
+{"level":"info","time":"2024-12-09T17:41:38.790+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:38.791+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :54548","tunnelID":"3352370"}
+{"level":"info","time":"2024-12-09T17:41:41.098+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:41.098+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :54511","tunnelID":"3352365"}
+{"level":"error","time":"2024-12-09T17:41:41.239+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:54543\": dial tcp 127.0.0.1:54543: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2024-12-09T17:41:42.063+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:42.063+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :9090","tunnelID":"3352357"}
+{"level":"info","time":"2024-12-09T17:41:42.382+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:42.382+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352940"}
+{"level":"info","time":"2024-12-09T17:41:42.393+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:42.395+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :55433","tunnelID":"3352672"}
+{"level":"info","time":"2024-12-09T17:41:42.459+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:42.459+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :55376","tunnelID":"3352667"}
+{"level":"info","time":"2024-12-09T17:41:42.485+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:42.485+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :55474","tunnelID":"3352687"}
+{"level":"info","time":"2024-12-09T17:41:43.052+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-09T17:41:43.052+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :55366","tunnelID":"3352666"}
+{"level":"error","time":"2024-12-09T17:41:43.593+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:54505\": dial tcp 127.0.0.1:54505: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2024-12-09T17:41:44.615+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:54464\": dial tcp 127.0.0.1:54464: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2024-12-09T17:41:44.755+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:44.755+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352941"}
+{"level":"error","time":"2024-12-09T17:41:44.868+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:55356\": dial tcp 127.0.0.1:55356: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2024-12-09T17:41:45.361+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:55422\": dial tcp 127.0.0.1:55422: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2024-12-09T17:41:45.382+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:55470\": dial tcp 127.0.0.1:55470: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"error","time":"2024-12-09T17:41:45.498+0530","caller":"callback/setup.go:96","msg":"ERR::API::WEB::HOK : Unable to call webhook url :  \nPost \"http://127.0.0.1:55354\": dial tcp 127.0.0.1:55354: connectex: No connection could be made because the target machine actively refused it. "}
+{"level":"info","time":"2024-12-09T17:41:45.743+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:45.743+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352942"}
+{"level":"info","time":"2024-12-09T17:41:46.035+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:46.035+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352944"}
+{"level":"info","time":"2024-12-09T17:41:46.670+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:46.670+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352945"}
+{"level":"info","time":"2024-12-09T17:41:46.683+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:46.683+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352946"}
+{"level":"info","time":"2024-12-09T17:41:46.717+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-09T17:41:46.717+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3352947"}
+{"level":"info","time":"2024-12-09T17:43:59.128+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:43:59.128+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:43:59.128+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:43:59.128+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:43:59.129+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:43:59.128+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:43:59.128+0530","caller":"core/lifecycle.go:450","msg":"Stopping tunnel"}
+{"level":"info","time":"2024-12-09T17:44:00.811+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:44:00.829+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:44:01.732+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:44:01.740+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:44:01.829+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:44:02.207+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-09T17:44:02.252+0530","caller":"core/lifecycle.go:457","msg":"Tunnel stopped successfully"}
+{"level":"info","time":"2024-12-11T12:12:23.726+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.8"}
+{"level":"warn","time":"2024-12-11T12:12:23.729+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 3838e75e-1618-4236-9532-55c9ed78dca3"}
+{"level":"info","time":"2024-12-11T12:12:23.756+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.8"}
+{"level":"warn","time":"2024-12-11T12:12:23.757+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 0aa23db7-f309-475f-8265-83d284572359"}
+{"level":"info","time":"2024-12-11T12:12:24.757+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :9090"}
+{"level":"warn","time":"2024-12-11T12:12:24.809+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2024-12-11T12:12:24.810+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :55621"}
+{"level":"info","time":"2024-12-11T12:12:26.384+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-11T12:12:26.393+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-11T12:12:30.608+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-11T12:12:30.609+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3384272"}
+{"level":"info","time":"2024-12-11T12:12:31.157+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-11T12:12:31.157+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3384273"}
+{"level":"info","time":"2024-12-11T12:12:53.876+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.8"}
+{"level":"warn","time":"2024-12-11T12:12:53.877+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 99f1e244-31e9-46bc-9758-3630983ea66a"}
+{"level":"warn","time":"2024-12-11T12:12:54.944+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2024-12-11T12:12:54.944+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :55667"}
+{"level":"info","time":"2024-12-11T12:12:56.902+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-11T12:13:00.849+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-11T12:13:00.849+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3384275"}
+{"level":"info","time":"2024-12-11T12:13:21.832+0530","caller":"cmd/lt.go:207","msg":"LambdaTest Tunnel version: 3.2.8"}
+{"level":"warn","time":"2024-12-11T12:13:21.833+0530","caller":"configmanager/setup.go:79","msg":"Tunnel Name was not specified, using: 60295d12-dedd-4293-b8b1-211b5702622c"}
+{"level":"warn","time":"2024-12-11T12:13:22.884+0530","caller":"custom/setup.go:846","msg":"Port 9090 is already in use. Trying on a random free tcp port."}
+{"level":"info","time":"2024-12-11T12:13:22.885+0530","caller":"custom/setup.go:861","msg":"Tunnel binary started on port :55688"}
+{"level":"info","time":"2024-12-11T12:13:24.238+0530","caller":"core/lifecycle.go:282","msg":"Launching tunnel"}
+{"level":"info","time":"2024-12-11T12:13:28.307+0530","caller":"core/lifecycle.go:404","msg":"You can start testing now"}
+{"level":"info","time":"2024-12-11T12:13:28.307+0530","caller":"core/lifecycle.go:405","msg":"Tunnel ID: 3384279"}
